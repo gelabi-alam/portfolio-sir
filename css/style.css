@@ -1,0 +1,12 @@
+body {
+    background: url(images/bg.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center center;
+    opacity: 0.95;
+}
+#main {
+    max-width: 1100px;
+    margin: 0 auto;
+    background-color: #fff;
+}
