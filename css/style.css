@@ -10,3 +10,18 @@ body {
     margin: 0 auto;
     background-color: #fff;
 }
+.hr{
+    width: 30%;
+    margin: 0 auto;
+}
+#scroll-top {
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: right;
+}
+#scroll-top a{
+    padding: 10px;
+    background-color: #3CD4F3;
+    text-decoration: none;
+    color: #000;   
+}
